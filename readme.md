@@ -8,9 +8,6 @@ Network Routing Simulator is a Python-based project that simulates routing algor
 - [Features](#features)
 - [Routing Algorithms Simulated](#routing-algorithms-simulated)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
